@@ -11,20 +11,8 @@
       "version": "1.0.4",
       "release_date": "2025-10-09T00:00:00Z",
       "latest": true
-    },
-    {
-      "id": "weather",
-      "name": "weather",
-      "description": "get weather",
-      "manifest_url": "https://unpkg.com/@jinba-ittai/weather-mcp-server@1.0.1/manifest.json",
-      "categories": [
-        ""
-      ],
-      "version": "1.0.1",
-      "release_date": "2025-10-09T00:00:00Z",
-      "latest": true
     }
   ],
-  "total_count": 2,
+  "total_count": 1,
   "updated_at": "2025-10-09T12:00:00Z"
 }
