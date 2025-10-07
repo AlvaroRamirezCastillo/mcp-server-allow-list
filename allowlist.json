@@ -4,7 +4,7 @@
       "id": "greeting",
       "name": "greeting",
       "description": "greeting some person",
-      "manifest_url": "https://unpkg.com/@jinba-ittai/mcp-server-ts@1.0.4/manifest.json",
+      "manifest_url": "https://unpkg.com/@jinba-ittai/greeting-mcp-server-ts@1.0.4/manifest.json",
       "categories": [
         ""
       ],
@@ -16,11 +16,11 @@
       "id": "weather",
       "name": "weather",
       "description": "get weather",
-      "manifest_url": "https://unpkg.com/@jinba-ittai/weather-mcp-server@1.0.1/manifest.json",
+      "manifest_url": "https://unpkg.com/@jinba-ittai/weather-mcp-server@1.0.4/manifest.json",
       "categories": [
         ""
       ],
-      "version": "1.0.1",
+      "version": "1.0.4",
       "release_date": "2025-10-09T00:00:00Z",
       "latest": true
     }
