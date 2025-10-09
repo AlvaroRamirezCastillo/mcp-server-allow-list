@@ -2,13 +2,11 @@
   "servers": [
     {
       "id": "filesystem",
-      "name": "filesystem",
-      "description": "filesystem",
-      "manifest_url": "https://unpkg.com/@jinba-ittai/greeting-mcp-server@1.0.4/manifest.json",
-      "categories": [
-        ""
-      ],
-      "version": "1.0.4",
+      "name": "Filesystem MCP (Downloads)",
+      "description": "Servidor MCP local para acceder a /Users/alvaro/Downloads",
+      "manifest_url": "file:///Users/alvaro/Downloads/mcp-filesystem/manifest.json",
+      "categories": ["local", "filesystem"],
+      "version": "1.0.0",
       "release_date": "2025-10-09T00:00:00Z",
       "latest": true
     }
