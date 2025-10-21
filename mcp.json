@@ -1,0 +1,25 @@
+{
+  "servers": {
+    "@jinba-ittai/weather-mcp-server": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@jinba-ittai/weather-mcp-server"
+      ]
+    },
+    "@jinba-ittai/greeting-mcp-server": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@jinba-ittai/greeting-mcp-server"
+      ]
+    },
+    "figma": {
+      "url": "http://127.0.0.1:3845/mcp",
+      "type": "http"
+    }
+  },
+  "inputs": []
+}
