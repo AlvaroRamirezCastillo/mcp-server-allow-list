@@ -4,7 +4,7 @@
       "id": "greeting",
       "name": "greeting mcp server",
       "description": "An MCP server greeting",
-      "manifest_url": "https://registry.modelcontextprotocol.io/v0/servers?search=io.github.AlvaroRamirezCastillo/greeting-mcp-server",
+      "manifest_url": "https://raw.githubusercontent.com/AlvaroRamirezCastillo/greeting-mcp-server/refs/heads/master/server.json",
       "version": "1.0.8"
     }
   ],
