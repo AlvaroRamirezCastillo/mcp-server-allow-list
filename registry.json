@@ -4,8 +4,7 @@
       "id": "greeting",
       "name": "greeting mcp server",
       "description": "An MCP server greeting",
-      "manifest_url": "https://raw.githubusercontent.com/AlvaroRamirezCastillo/greeting-mcp-server/refs/heads/master/server.json",
-      "version": "1.0.8"
+      "manifest_url": "https://alvaroramirezcastillo.github.io/mcp-server-allow-list/manifest.json"
     }
   ],
   "total_count": 1
