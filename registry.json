@@ -1,8 +1,8 @@
 {
   "servers": [
     {
-      "id": "@jinba-ittai/greeting-mcp-server",
-      "name": "io.github.AlvaroRamirezCastillo/greeting-mcp-server",
+      "id": "greeting",
+      "name": "greeting mcp server",
       "description": "An MCP server greeting",
       "manifest_url": "https://registry.modelcontextprotocol.io/v0/servers?search=io.github.AlvaroRamirezCastillo/greeting-mcp-server",
       "version": "1.0.8"
