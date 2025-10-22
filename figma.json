@@ -4,7 +4,7 @@
       "id": "figma-desktop",
       "name": "Figma Dev Mode MCP (Desktop)",
       "description": "Server local expuesto por Figma Desktop.",
-      "manifest_url": "https://alvaroramirezcastillo.github.io/mcp-server-allow-list/figma-manifest.json",
+      "manifest_url": "https://cdn.tu-org.com/mcp/figma-desktop/manifest.json",
       "categories": ["design", "figma"],
       "version": "0.0.0-org",
       "latest": true
