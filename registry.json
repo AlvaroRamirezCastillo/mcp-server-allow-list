@@ -4,8 +4,11 @@
       "id": "greeting",
       "name": "greeting mcp server",
       "description": "An MCP server greeting",
-      "manifest_url": "https://alvaroramirezcastillo.github.io/mcp-server-allow-list/manifest.json"
+      "manifest_url": "https://alvaroramirezcastillo.github.io/mcp-server-allow-list/manifest.json",
+      "version": "1.0.8",
+      "latest": true
     }
   ],
-  "total_count": 1
+  "total_count": 1,
+  "updated_at": "2025-10-22T00:00:00Z"
 }
